@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">抢茅台小助手</string>
+    <string name="app_describe">1.请打开上方 开启服务 开关 \n2.打开开关后，在弹窗上点击 “允许” 授权，相关权限开启后用于 辅助抢购时使用</string>
+    <string name="navigation_drawer_open">开启</string>
+    <string name="navigation_drawer_close">关闭</string>
+    <string name="use_des">1.使用“抢茅台小助手”必须开启无障碍服务,请点击右下方按钮, 打开设置页“无障碍”相关设置, 授权“抢茅台小助手”开启无障碍服务
+        \n\n2.默认开启支持辅助京东抢购的功能,如需开启额外功能,请打开左侧功能区开启相关设置
+        \n\n3.使用示例 :开启“小助手”无障碍服务后,打开京东app,进入茅台商品抢购页，等待抢购，辅助工具将会在抢购开始时自动点击“立即抢购”, 进入提交订单页后将自动点击 “提交订单”
+        \n\n4.本工具仅供个人学习参考使用,并不能保证抢购成功率,请勿用于商业用途
+    </string>
+</resources>
